@@ -1,54 +1,33 @@
-# Astro Starter Kit: Basics
+# Celestial Chaos
 
-```sh
-npm create astro@latest -- --template basics
-```
+![Image](public/images/celestialchaos.png)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+In the vast expanse where silence roars,
+Amongst the stars, celestial chaos soars.
+A cosmic dance of galaxies untamed,
+Infinite realms, by mortals unnamed.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Orbiting paths in disarray,
+Comets streak with tails astray.
+Planets collide in a fiery embrace,
+Stardust scatters through the endless space.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Black holes whisper, the devouring call,
+Swallowing light, the universe's thrall.
+Nebulas bloom in chaotic grace,
+Painting the void with a vibrant face.
 
-## 🚀 Project Structure
+The suns implode with brilliant might,
+Casting the cosmos into eternal night.
+Yet from the ashes of stars that fall,
+New worlds arise, defying it all.
 
-Inside of your Astro project, you'll see the following folders and files:
+Celestial chaos, a beauty so wild,
+Crafting existence, nature's undefiled.
+In the cosmic dance of entropy's play,
+Life finds a way, in the dark's dismay.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+So gaze upon the night sky, so vast,
+Where celestial chaos holds the universe fast.
+In its disorder, a harmony so profound,
+In the endless chaos, creation is found.
